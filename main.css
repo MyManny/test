@@ -1,0 +1,43 @@
+.covid{
+    background: orangered;
+    display:flex;
+    justify-content: center;
+}
+
+.covid a{
+    color:#cddc29
+}
+
+.google{
+    text-align:right;
+}
+
+.picture-background{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(https://www.sdparks.org/etc/designs/sdparks/sdparksdesign/clientlibs/img/parks-background-main-wood-grey.jpg);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: cover;
+  padding: 60px 15px 100px;
+  background-attachment: fixed;
+  height:500px;
+}
+
+.green-background{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(https://www.sdparks.org/content/dam/sdparks/en/images/header-images/parks-background-main-wood-green.jpg);
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: cover;
+  padding: 60px 15px 100px;
+  background-attachment: fixed;
+  height:500px;
+}
+
+.footer{
+background:black;
+font:solid white;
+display:flex;
+height:180px;
+
+}
