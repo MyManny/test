@@ -41,3 +41,69 @@ display:flex;
 height:180px;
 
 }
+.camping{
+    position:relative;
+    margin:10px;
+    right: -100px;
+    top:-25px;
+
+}
+.wedding{
+    position:relative;
+    margin:10px;
+    right:-350px;
+    top:-245px;
+}
+.fitness{
+    position:relative;
+    margin:10px;
+    right:-600px;
+    top: -468px;
+}
+.trails{
+    position:relative;
+    margin:10px;
+    right:-250px;
+    top:-460px;
+}
+.corporate{
+    position:relative;
+    margin:10px;
+    right:-500px;
+    top:-680px;
+}
+.find{
+    position: relative;
+    margin:10px;
+    left:300px;
+
+}
+.volunteer{
+    position:relative;
+    margin:30px;
+    left:100px;
+}
+.sponsor{
+    position:relative;
+    margin:10px;
+    left:500px;
+    bottom:110px;
+
+}
+.news{
+    position:relative;
+    margin:10px;
+    left:300px;
+    bottom: 80px;
+}
+@media screen and (max-width: 40em)
+#parks-social {
+    float: right;
+    text-align: right;
+    width: 85%;
+}
+
+#parks-social {
+    float: right;
+    margin-top: 1em;
+}
